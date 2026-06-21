@@ -1,3 +1,7 @@
+---
+title: Privacy Policy – PECS Learning App
+---
+
 # Privacy Policy for PECS Learning App
 
 Last Updated: June 2026
